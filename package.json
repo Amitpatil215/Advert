@@ -1,0 +1,19 @@
+{
+  "name": "advert",
+  "version": "1.0.0",
+  "description": "Customized web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amitpatil215/Advert.git"
+  },
+  "author": "Amit Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amitpatil215/Advert/issues"
+  },
+  "homepage": "https://github.com/Amitpatil215/Advert#readme"
+}
